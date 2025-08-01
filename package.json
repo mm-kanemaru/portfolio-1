@@ -1,0 +1,32 @@
+{
+  "name": "portfolio-1",
+  "version": "1.0.0",
+  "description": "portfolio about chanriok",
+  "homepage": "https://github.com/mm-kanemaru/portfolio-1#readme",
+  "bugs": {
+    "url": "https://github.com/mm-kanemaru/portfolio-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mm-kanemaru/portfolio-1.git"
+  },
+  "license": "ISC",
+  "author": "chanriok",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc-watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.8.3"
+  }
+}
